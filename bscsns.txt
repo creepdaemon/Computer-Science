@@ -1,4 +1,12 @@
 hello world!
-hello BSCSNS-2A
-hello everyone
+helo BSCSNS-2A
 Hi
+
+#inlclude<stdio.h>
+
+int main()
+{
+    print("Hello world);
+
+    return 0;
+}
